@@ -1,7 +1,7 @@
 ---
 title: Milestone 2
-emoji: 🦀
-colorFrom: yellow
+emoji: 📉
+colorFrom: indigo
 colorTo: yellow
 sdk: streamlit
 sdk_version: 1.17.0
